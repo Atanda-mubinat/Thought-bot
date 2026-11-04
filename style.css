@@ -1,0 +1,39 @@
+*{
+    margin:auto;
+    padding: 0px;
+    box-sizing: border-box;
+    justify-content: center;
+    background-color: #201313;
+}
+
+.div1{
+    width: 50%;
+    justify-content: center;
+    padding-top: 45px;
+}
+
+
+.div2{
+    width: 50%;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.div2 span{
+    outline: groove;
+    height: 70px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+
+
+h1{
+    color: white;
+font-weight: 700;
+text-align: start;
+}
+h4{
+    color: white;
+}
+
